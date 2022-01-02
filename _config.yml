@@ -65,7 +65,7 @@ sphinx:
       SECTION: "001"
       CREDITS: "3"
       TITLE: "Software Practices"
-      PREREQS: "A minimum "B" grade in CPSC 1030 and 1045."
+      PREREQS: "A minimum B grade in CPSC 1030 and 1045."
       COREQS: "N/A"
       TERM: "2022 Winter Term 1"
       ROOM: "TBD"
