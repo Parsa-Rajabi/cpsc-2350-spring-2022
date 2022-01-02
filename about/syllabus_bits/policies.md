@@ -1,92 +1,62 @@
-## Final Examinations 
+## Langara COVID-19 Response
 
-The examination period for {{ TERM }} is {{ EXAM_PERIOD }}.
-Except in the case of examination clashes and hardships (three or more formal examinations scheduled within a 24-hour period) or unforeseen events, students will be permitted to apply for out-of-time final examinations only if they are representing the University, the province, or the country in a competition or performance; serving in the Canadian military; observing a religious rite; working to support themselves or their family; or caring for a family member.
-Unforeseen events include (but may not be limited to) the following: ill health or other personal challenges that arise during a term and changes in the requirements of an ongoing job.
-Further information on Academic Concession can be found under Policies and Regulation in the [Okanagan Academic Calendar](http://www.calendar.ubc.ca/okanagan/index.cfm?tree=3,48,0,0).
-
+For information about COVID-19, please visit (Langara COVID-19 FAQ)[https://langara.ca/news-and-events/covid-19/faqs/faqs-health.html].
 ## Copyright Disclaimer
 
-Diagrams and figures included in lecture presentations adhere to [Copyright Guidelines for UBC Faculty, Staff and Students](https://copyright.ubc.ca/requirements/copyright-guidelines/) and [UBC Fair Dealing Requirements for Faculty and Staff](https://copyright.ubc.ca/requirements/fair-dealing/).
-Some of these figures and images are subject to copyright and will not be posted to Canvas.
-All material uploaded to Canvas that contain diagrams and figures are used with permission of the publisher; are in the public domain; are licensed by Creative Commons; meet the permitted terms of use of UBC’s library license agreements for electronic items; and/or adhere to the UBC Fair Dealing Requirements for Faculty and Staff.
-Access to the Canvas course site is limited to students currently registered in this course. 
+<!-- Diagrams and figures included in lecture presentations adhere to [Copyright Guidelines for UBC Faculty, Staff and Students](https://copyright.ubc.ca/requirements/copyright-guidelines/) and [UBC Fair Dealing Requirements for Faculty and Staff](https://copyright.ubc.ca/requirements/fair-dealing/).
+Some of these figures and images are subject to copyright and will not be posted to Canvas. -->
+All material uploaded to Canvas that contain diagrams and figures are used with permission of the publisher; are in the public domain; are licensed by Creative Commons;
+Access to the D2L Brightspace course site is limited to students currently registered in this course. 
 Under no circumstance are students permitted to provide any other person with means to access this material. 
 Anyone violating these restrictions may be subject to legal action.
 Permission to electronically record any course materials must be granted by the instructor.
 Distribution of this material to a third party is forbidden.
-
-## Grievances and Complaints Procedures
-
-A student who has a complaint related to this course should follow the procedures summarized below:
-
-- The student should attempt to resolve the matter with the instructor first. Students may talk first to someone other than the instructor if they do not feel, for whatever reason, that they can directly approach the instructor. 
-- If the complaint is not resolved to the student's satisfaction, the student should e-mail the Associate Head, {{ ASSOCIATE_HEAD }} or the Department Head, Dr. John Braun at [john.braun@ubc.ca](mailto:john.braun@ubc.ca).
-
 ## Academic Integrity
 
-The academic enterprise is founded on honesty, civility, and integrity.
-As members of this enterprise, all students are expected to know, understand, and follow the codes of conduct regarding academic integrity.
-At the most basic level, this means submitting only original work done by you and acknowledging all sources of information or ideas and attributing them to others as required.
-This also means you should not cheat, copy, or mislead others about what is your work.
-Violations of academic integrity (i.e., misconduct) lead to the breakdown of the academic enterprise, and therefore serious consequences arise and harsh sanctions are imposed.
-For example, incidences of plagiarism or cheating may result in a mark of zero on the assignment or exam and more serious consequences may apply if the matter is referred to the President’s Advisory Committee on Student Discipline.
-Careful records are kept in order to monitor and prevent recurrences.
-
-A more detailed description of academic integrity, including the University’s policies and procedures, may be found in the [Academic Calendar](http://okanagan.students.ubc.ca/calendar/index.cfm?tree=3,54,111,0.)
+[F1004 – Langara Academic Integrity](https://langara.ca/about-langara/policies/pdf/F1004.pdf)
 
 If you have any questions about how academic integrity applies to this course, please consult with your professor.
+## Student Code of Conduct
 
-## Grading Practices
+[E1003 - Langara Student Code of Conduct](https://langara.ca/about-langara/policies/pdf/E1003.pdf)
+## Academic Standing, Probation and Suspension
 
-Faculties, departments, and schools reserve the right to scale grades in order to maintain equity among sections and conformity to University, faculty, department, or school norms. 
-Students should therefore note that an unofficial grade given by an instructor might be changed by the faculty, department, or school.
-[Grades](http://www.calendar.ubc.ca/okanagan/index.cfm?tree=3,41,90,1014) are not official until they appear on a student's academic record.
-If you have any questions about how academic integrity applies to this course, please consult with your professor.
+[E2008 - Langara Academic Standing - Academic Probation and Academic Suspension](https://langara.ca/about-langara/policies/pdf/E2008-june-2012.pdf)
+
+## Appeal of Grades
+
+[E2006 - Appeal of Final Grade](https://langara.ca/student-services/student-conduct-and-academic-integrity/appealsv2/grade-appeals.html)
+
+Marks on assignments and exams are based on merit and the quality of a student’s academic work and are non-negotiable. Personal circumstances are not a factor in determining a mark or final course grade. Do not approach your instructor at any time to negotiate a mark or final grade, based on personal reasons. If personal circumstances are effecting your ability to satisfactorily complete your academic work, please seek help early from support services on campus. Information about services is available on line at (https://langara.ca/student-services/index.html). International students can go to the International Education Office, Room A107.
+
+## Concerns about Instruction
+
+[F1002 - Concerns about Instruction](https://langara.ca/about-langara/policies/pdf/F1002.pdf)
+
+## Withdraw from Courses and Deferred Standing
+
+[E2011 - Withdrawal from Courses and Deferred Standing](https://langara.ca/about-langara/policies/pdf/E2011.pdf)
+## Departmental Policies
+From (https://langara.ca/programs-and-courses/courses/CPSC/), as of January 1st, 2021.
+### Prerequisites
+Prerequisites for courses in Computer Science are valid for only three years. Students wanting to register in a course for which the prerequisite was taken more than three years ago will require departmental permission. Students may be required to write a diagnostic test or to “upgrade” the prerequisite. A course may only be used as a prerequisite if the Computer Science grade is at least "C".
+#### Repeating a course
+A Computer Science course may be taken only twice, regardless of the grade earned in the first enrolment. The Department Chair, or delegate, will decide on exceptions to this rule, usually on the basis of documented evidence of upgraded prerequisites.
+
+Students with a substantial background in computer programming may be exempted from CPSC 1050 and/or 1150. See a faculty advisor for further information.
+### Attendance
+Students will receive a failing mark if they miss 20% of the course components including lectures, seminars, and labs, unless there is verifiable evidence of an acceptable excuse.
+### Grading
+In order to get a "C" or higher grade in a Computer Science course, a student must achieve at least 50% average in the exam components of the course.
+In courses which involve programming, students are required to hand in an attempt at solving every assignment in order to pass a course. In addition, students are required to obtain a satisfactory programming mark.
 
 ## Disability Assistance
 
-The Disability Resource Centre ensures educational equity for students with disabilities, injuries or illness.
-If you are disabled, have an injury or illness and require academic accommodations to meet the course objectives, [visit our website](https://students.ok.ubc.ca/drc/welcome.html) for more information or contact the DRC at: [drc.questions@ubc.ca](mailto:drc.questions@ubc.ca).
+Accessibility Services works with students with disabilities to arrange appropriate support services on a case-by-case basis. Students are required to register with Accessibility Services, provide appropriate documentation, and sign a disclosure/consent form, [visit their website](https://langara.ca/student-services/accessibility-services/index.html) for more information or contact the Aaccessibility Services at: [accessibilityservices@langara.ca](mailto:accessibilityservices@langara.ca).
 
-## Equity, Human Rights, Discrimination and Harassment
+## Sexual Violence Support and Education program
 
-UBC Okanagan is a place where every student, staff and faculty member should be able to study and work in an environment that is free from human rights based discrimination and harassment.
-If you require assistance related to an issue of equity, discrimination or harassment, please contact the [Equity Office](https://equity.ok.ubc.ca/) by phone (250.807.9291) or email ([equity.ubco@ubc.ca](mailto:equity.ubco@ubc.ca)), your administrative head of unit, and/or your unit’s equity representative.   
-
-## Health & Wellness - UNC 337
-
-At UBC Okanagan health services to students are provided by Health and Wellness.
-Nurses, physicians and counsellors provide health care and counselling related to physical health, emotional/mental health and sexual/reproductive health concerns.
-As well, health promotion, education and research activities are provided to the campus community.
-If you require assistance with your health, please contact [Health and Wellness](http://www.students.ok.ubc.ca/health-wellness) in person (UNC 337) or by email (healthwellness.okanagan@ubc.ca) for more information or to book an appointment.
-
-## Sexual Violence Prevention and Response Office (SVPRO)
-
-A safe and confidential place for UBC students, staff and faculty who have experienced sexual violence regardless of when or where it took place.
-Just want to talk? We are here to listen and help you explore your options. We can help you find a safe place to stay, explain your reporting options (UBC or police), accompany you to the hospital, or support you with academic accommodations.
-You have the right to choose what happens next.
-We support your decision, whatever you decide. Visit [svpro.ok.ubc.ca](https://svpro.ok.ubc.ca) or call us at 250.807.9640.
-
-## Independent Investigations Office (IIO)
-
-If you or someone you know has experienced sexual assault or some other form of sexual misconduct by a UBC community member and you want the Independent Investigations Office (IIO) at UBC to investigate, please contact the IIO.
-Investigations are conducted in a trauma informed, confidential and respectful manner in accordance with the principles of procedural fairness.
-You can report your experience directly to the IIO via email: [director.of.investigations@ubc.ca](mailto:director.of.investigations@ubc.ca) or by calling 604.827.2060 or online by visiting [investigationsoffice.ubc.ca](https://investigationsoffice.ubc.ca).
-
-## The Hub
-
-The Student Learning Hub (LIB 237) is your go-to resource for free math, science, writing, and language learning support.
-The Hub welcomes undergraduate students from all disciplines and year levels to access a range of supports that include tutoring in math, sciences, languages, and writing, as well as help with study skills and learning strategies. 
-For more information, please visit the Hub’s website (https://students.ok.ubc.ca/student-learning-hub/) or call 250-807-9185.
-
-## SAFEWALK
-
-Don't want to walk alone at night?  Not too sure how to get somewhere on campus? 
-
-Call Safewalk at 250.807.8076.
-
-For more information, [visit our website](https://security.ok.ubc.ca/safewalk/) or download the UBC SAFE - Okanagan app.
+The Sexual Violence Support and Education program is managed by the Office of Student Conduct and Academic Integrity, in coordination with People and Culture. If you have any questions about the Sexual Violence Support and Education program, please contact [studentconduct@langara.ca](studentconduct@langara.ca). 
 
 <!-- 
 UBC provides resources to support student learning and to maintain healthy lifestyles but recognizes that sometimes crises arise and so there are additional resources to access including those for survivors of sexual violence.
