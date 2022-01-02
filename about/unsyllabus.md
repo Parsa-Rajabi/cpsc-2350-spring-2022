@@ -1,6 +1,6 @@
 ![](../images/header.jpg)
 
-![](../images/UBCO_CMPS_header.jpg)
+<!-- ![](../images/UBCO_CMPS_header.jpg) -->
 
 # Unsyllabus
 
@@ -9,10 +9,10 @@
 ```{include} unsyllabus_bits/important_details.md
 ```
 
-## Contact Us
+<!-- ## Contact Us -->
 
-```{include} syllabus_bits/teaching_team.md
-```
+<!-- ```{include} syllabus_bits/teaching_team.md
+``` -->
 
 ## Evaluation
 
