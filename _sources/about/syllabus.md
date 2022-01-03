@@ -16,7 +16,7 @@ Elements of this document are **fixed** and unchanging.
 
 **{{ MEETING_TIMES }}**
 
-**Mode of Delivery/Location:** As per [Langara's announcment on December 30, 2021](https://langara.ca/news-and-events/covid-19/coronavirus-news-updates/2021/211230-covid-student-update.html), this course will be online until Monday, January 10.
+**Mode of Delivery/Location:** As per [Langara's announcment on December 30, 2021](https://langara.ca/news-and-events/covid-19/coronavirus-news-updates/2021/211230-covid-student-update.html), this course will be delivered 100% remotely until Monday, January 10.
 
 ---
 ## Course Instructor
@@ -41,7 +41,7 @@ You will find all the important term dates in the [Langara Academic Calendar](ht
 
 ## Learning Outcomes
 
-The Learning Outcomes for this course are: 
+The Learning Outcomes for this course are:
 
 ```{include} syllabus_bits/course_LOs.md
 ```
