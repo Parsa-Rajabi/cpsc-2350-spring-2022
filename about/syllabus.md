@@ -2,7 +2,7 @@
 
 <!-- ![](../images/UBCO_CMPS_header.jpg) -->
 
-# Course Syllabus (Official)
+# Course Syllabus
 
 Below is the official Langara-mandated Course Syllabus for {{ COURSE_CODE }}.
 Elements of this document are **fixed** and unchanging.
@@ -16,7 +16,7 @@ Elements of this document are **fixed** and unchanging.
 
 **{{ MEETING_TIMES }}**
 
-**Mode of Delivery/Location:** TBD
+**Mode of Delivery/Location:** As per [Langara's announcment on December 30, 2021](https://langara.ca/news-and-events/covid-19/coronavirus-news-updates/2021/211230-covid-student-update.html), this course will be online until Monday, January 10.
 
 ---
 ## Course Instructor
