@@ -1,7 +1,7 @@
 # Book settings
 title: CPSC 2350 
 author: Parsa Rajabi
-logo: images/logo.jpg
+logo: images/langara-logo.png
 copyright: ""
 exclude_patterns: ["LICENSE.md", "README.md"]
 only_build_toc_files: true
