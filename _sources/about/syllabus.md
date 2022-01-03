@@ -14,7 +14,9 @@ Elements of this document are **fixed** and unchanging.
 
 **{{ TERM }}**
 
-**{{ ROOM }} - {{ MEETING_TIMES }}**
+**{{ MEETING_TIMES }}**
+
+**Mode of Delivery/Location:** TBD
 
 ---
 ## Course Instructor
@@ -26,7 +28,7 @@ Elements of this document are **fixed** and unchanging.
 <!-- **Phone:** {{ PHONE }} -->
 
 <!-- **Mode of Delivery:** Online (All course activities and assessments, including the Final Exam, will be conducted Online.) -->
-**Mode of Delivery:** TBD
+
 
 ## Course Description
 
@@ -53,7 +55,7 @@ Resources and materials for this course can be found on the {{ '[course website]
 
 ## Course Evaluation
 
-```{include} syllabus_bits/grading_practices_detailed.md
+```{include} syllabus_bits/grading_practices_simple.md
 ```
 
 ## Passing Criteria
