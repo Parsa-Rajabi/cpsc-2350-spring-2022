@@ -1,11 +1,11 @@
 The grading scheme for this course is:
 
-| Item                  | Weight           | Due date(s)             | Frequency     |
-|:---------------------:|:----------------:|:-----------------------:|:-------------:|
-| Check-in Quizzes      | 10%              | Saturdays at 1 pm       | Weekly        |
-| Assignments           | 20%              | Saturdays at 11:59 pm   | Bi-weekly     |
-| Project               | 40%              | -                       | -             |
-| Final Exam            | 30%              | TBD                     | -             |
+|       Item       | Weight |      Due date(s)      | Frequency |
+|:----------------:|:------:|:---------------------:|:---------:|
+| Check-in Quizzes |   10%  |   Saturdays at 1 pm   |   Weekly  |
+|    Assignments   |   20%  | Saturdays at 11:59 pm | Bi-weekly |
+|      Project     |   40%  |           -           |     -     |
+|    Final Exam    |   30%  |          TBD          |     -     |
 
 <!-- ```{attention} 
 All deadlines in this course have an automatic 48 hour grace period after the due dates listed above.
