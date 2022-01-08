@@ -5,7 +5,7 @@ For information about COVID-19, please visit (Langara COVID-19 FAQ)[https://lang
 
 <!-- Diagrams and figures included in lecture presentations adhere to [Copyright Guidelines for UBC Faculty, Staff and Students](https://copyright.ubc.ca/requirements/copyright-guidelines/) and [UBC Fair Dealing Requirements for Faculty and Staff](https://copyright.ubc.ca/requirements/fair-dealing/).
 Some of these figures and images are subject to copyright and will not be posted to Canvas. -->
-All material uploaded to Canvas that contain diagrams and figures are used with permission of the publisher; are in the public domain; are licensed by Creative Commons;
+All material uploaded to Brightspace that contain diagrams and figures are used with permission of the publisher; are in the public domain; are licensed by Creative Commons;
 Access to the D2L Brightspace course site is limited to students currently registered in this course. 
 Under no circumstance are students permitted to provide any other person with means to access this material. 
 Anyone violating these restrictions may be subject to legal action.
