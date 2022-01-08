@@ -1,7 +1,7 @@
 The grading scheme for this course is:
 
 | Item                  | Weight           | Due date(s)             | Frequency     |
-|-----------------------|------------------|-------------------------|---------------|
+|:---------------------:|:----------------:|:-----------------------:|:-------------:|
 | Check-in Quizzes      | 10%              | Saturdays at 1 pm       | Weekly        |
 | Assignments           | 20%              | Saturdays at 11:59 pm   | Bi-weekly     |
 | Project               | 40%              | -                       | -             |

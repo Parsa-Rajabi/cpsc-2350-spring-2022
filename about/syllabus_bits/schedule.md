@@ -2,7 +2,7 @@ This is the tentative plan for {{ COURSE_CODE }} this term.
 Things may change depending on many factors so this is subject to change.
 
 | Wk# | Date     | Topic                                         | Assignment | Project                 | Check-in Quiz |
-|-----|----------|-----------------------------------------------|------------|-------------------------|---------------|
+|:---:|:--------:|:---------------------------------------------:|:----------:|:-----------------------:|:-------------:|
 | 1   | Jan. 8   | Cancelled                                     |  -         | -                       | -             |
 | 2   | Jan. 15  | Introduction, Git/Github                      |            |                         |               |
 | 3   | Jan. 22  | SDLC, Agile/Water/Scrum                       | A1 Due     |                         | Q1            |
