@@ -51,7 +51,6 @@ More details about the course can be found on [CPSC 2350 - Langara Academic Cale
 ## Required Materials
 
 There is no requirement to purchase textbooks or any other materials for this course.
-Resources and materials for this course can be found on the {{ '[course website]({link})'.format(link=CANVAS_LINK.replace('CANVAS_ID',CANVAS_ID))}}.
 
 ## Course Evaluation
 
@@ -65,8 +64,8 @@ Resources and materials for this course can be found on the {{ '[course website]
 
 ## Late Policy and Missed Assignments and Exams
 
-Assignmnets can be submitted up to 48 hours after the due date with 10% late penalty for every 24 hours. No submissions will be accepted after 48 hours.
-Missed Tests and Exams will be given a score of 0 unless prior arrangements are made with the course instructor.
+Assignmnets can be submitted up to 48 hours after the due date with 10% late penalty for every 24 hours. No submissions will be accepted after 48 hours. 
+Missed project deadlines (check-ins, reports, presentations), quizzes and exams will be given a score of 0 unless prior arrangements are made with the course instructor.
 
 ## Tentative Course Schedule
 
