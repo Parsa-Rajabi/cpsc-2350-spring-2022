@@ -55,7 +55,7 @@ Resources and materials for this course can be found on the {{ '[course website]
 
 ## Course Evaluation
 
-```{include} syllabus_bits/grading_practices_simple.md
+```{include} syllabus_bits/grading_practices_detailed.md
 ```
 
 ## Passing Criteria
