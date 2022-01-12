@@ -64,7 +64,7 @@ There is no requirement to purchase textbooks or any other materials for this co
 
 ## Late Policy and Missed Assignments and Exams
 
-Assignmnets can be submitted up to 48 hours after the due date with 10% late penalty for every 24 hours. No submissions will be accepted after 48 hours. 
+Assignments can be submitted up to 48 hours after the due date with 10% late penalty for every 24 hours. No submissions will be accepted after 48 hours. 
 Missed project deadlines (check-ins, reports, presentations), quizzes and exams will be given a score of 0 unless prior arrangements are made with the course instructor.
 
 ## Tentative Course Schedule

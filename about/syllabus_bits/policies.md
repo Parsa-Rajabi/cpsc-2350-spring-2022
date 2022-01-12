@@ -47,8 +47,8 @@ Students with a substantial background in computer programming may be exempted f
 ### Attendance
 Students will receive a failing mark if they miss 20% of the course components including lectures, seminars, and labs, unless there is verifiable evidence of an acceptable excuse.
 ### Grading
-In order to get a "C" or higher grade in a Computer Science course, a student must achieve at least 50% average in the exam components of the course.
-In courses which involve programming, students are required to hand in an attempt at solving every assignment in order to pass a course. In addition, students are required to obtain a satisfactory programming mark.
+1. In order to get a "C" or higher grade in a Computer Science course, a student must achieve at least 50% average in the exam components of the course.
+2. In courses which involve programming, students are required to hand in an attempt at solving every assignment in order to pass a course. In addition, students are required to obtain a satisfactory programming mark.
 
 ## Disability Assistance
 
@@ -56,7 +56,7 @@ Accessibility Services works with students with disabilities to arrange appropri
 
 ## Sexual Violence Support and Education program
 
-The Sexual Violence Support and Education program is managed by the Office of Student Conduct and Academic Integrity, in coordination with People and Culture. If you have any questions about the Sexual Violence Support and Education program, please contact [studentconduct@langara.ca](studentconduct@langara.ca). 
+The Sexual Violence Support and Education program is managed by the Office of Student Conduct and Academic Integrity, in coordination with People and Culture. If you have any questions about the Sexual Violence Support and Education program, please contact [studentconduct@langara.ca](mailto:studentconduct@langara.ca). 
 
 <!-- 
 UBC provides resources to support student learning and to maintain healthy lifestyles but recognizes that sometimes crises arise and so there are additional resources to access including those for survivors of sexual violence.

@@ -1,5 +1,3 @@
-- All students must satisfy ALL conditions to pass the course:
-    1. Pass the project component with a grade of at least 50%,
-    2. Pass the final exam with a grade of at least 50%,
+1. In order to get a "C" or higher grade in a Computer Science course, a student must achieve at least 50% average in the exam components of the course.
+2. In courses which involve programming, students are required to hand in an attempt at solving every assignment in order to pass a course. In addition, students are required to obtain a satisfactory programming mark.
 
-If students do not satisfy the appropriate requirements, the student will be assigned the **lower** of their earned course grade or, a maximum overall grade of 45 (F) in the course.
