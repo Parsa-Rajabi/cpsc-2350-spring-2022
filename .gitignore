@@ -3,6 +3,14 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# Default ignored files
+/shelf/
+/workspace.xml
+.idea
+
+
+# Editor-based HTTP Client requests
+/httpRequests/
 
 .DS_Store
 ._.DS_Store

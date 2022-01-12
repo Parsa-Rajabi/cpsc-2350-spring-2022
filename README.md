@@ -1,72 +1,30 @@
-# JupyterBook Course Template
+# CPSC 2350 JupyterBook Course 
 
-This is a template repository that makes it drop-dead simple for anyone to create a JupyterBook course website and deploy it using GH Pages.
-No configuration is necessary, there are just three steps.
+This repository contains all the material for CPSC 2350 - Software Practices at Langara College for Spring 2022:
 
-## Course Website
+> Students learn how to apply software development best practices to create the right product (validated), done right (verified), and managed right (through responsive and responsible process). They will learn the “what”, “how”, and “why” of agile practices, and the consequences for not following them, while working through the Software Development Life Cycle (SDLC) on multi-developer projects.
 
-To access the rendered version of this JupyterBook, visit https://firasm.github.io/jupyterbook_course_template.
+# Website
 
-Each time there is a commit to master, the website will re-deploy.
-Currently it takes about 70s for the website to update.
+Access the website using the following link: [parsa-rajabi.github.io/cpsc-2350](https://parsa-rajabi.github.io/cpsc-2350)
 
+All content on this site (unless otherwise specified) is licensed under the [CC BY-NC-SA 4.0 license](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 
-## Usage
+# Learning Outcomes
 
-### 1. Visit this [template repository](https://github.com/firasm/jupyterbook_course_template) with the GH account you want to use and click "Use this template".
+1. Describe how traditional methods relate to concepts of the Sotware Development Life-Cycle
+2. Apply agile methods to manage uncertainty and respond to change throughout the SDLC
+3. Use Object Oriented techniques and Inversion of Control to design and implement robust software
+4. Use UML to communicate design and support redesign
+5. Use Test Driven Development to quickly and confidently produce low-defect, modularized, extensible code
+6. Improve quality of existing code by refactoring supported by tests
+7. Use debugging skills to isolate and resolve defects
+8. Use continues integration to frequently deliver working software
+9. Manage change requests to ensure regular progress
+10. Flexibly capture user requirements, and convert them into SMART changes
+11. Plan short development cycles, and operate effective teams
 
-![](https://github.com/firasm/bits/blob/master/jb-step1.png)
+More details about the course can be found on [CPSC 2350 - Langara Academic Calendar](https://langara.ca/programs-and-courses/courses/CPSC/2350.html)
 
-### 2. Fill in the info for the new repository, make sure it's a public repository and you include all branches (this will make sure the `gh-pages` branch is deployed).
-
-![](https://github.com/firasm/bits/blob/master/jb-step2.png)
-
-### 3. Wait for the GH Action to complete, and then visit your deployed website here: https://<your_github_username>.github.io/<repo_name> . That's it!
-
-![](https://github.com/firasm/bits/blob/master/jb-step3.png)
-
-## Features
-
-1. Support for executing code in a browser using [thebe](https://thebe.readthedocs.io/en/latest/) and [mybinderorg](https://mybinder.org)!
-
-1. Structured book with markdown file stubs aligning with a course structure for a 13 week course. Fully versioned using GitHub, automatically deployed using GH Actions to either GH or your own server. Can also be extended with a testing framework for extra peace of mind.
-
-1. [Examples of how to use IFrames](https://firasm.github.io/jupyterbook_course_template/class/topic1.html#) to embed web content, @phet_sims, @sli.do polls, videos, and other content. 
-
-1. Powerful built-in annotation and commenting features with [hypothes.is](http://hypothes.is) and [utteranc.es](http://utteranc.es). Annotate your syllabus, course readings, and any other content.
-
-1. Add persistent checkboxes so students can track their progress through notebooks, exercises and readings. 
-
-1. Allow students to download pages of the site in PDF, link to the source code on your repo, or open in a mybinder notebook.
-
-1. The JupyterBook can be embedded into Canvas using the Redirect tool so students never have to leave their LMS.
-
-1. (NEW!) Use of the new `substitution` feature of [myst-parser](https://myst-parser.readthedocs.io/en/latest/develop/_changelog.html#id1) to configure the course algorithmically from the `_config.yml` file!
-
-## Edit the template for your course
-
-There are a few things you need to do to adapt this template for your course.
-I might miss a few things, so this list is a work in progress:
-
-1. In the `_config.yml` file:
-
-	- [ ] Set title of the book (Physics 111)
-	- [ ] Update author (Firas Moosvi)
-	- [ ] Update logo image (images/logo.png)
-	- [ ] Add Google Analytics ID (Optional)
-	- [ ] Enable/Disable Hypothes.is (remove the line to remove the hypothes.is integration)
-	- [ ] Configure Utteranc.es repository (Choose one of Hypothesis or Utteranc.es)
-	- [ ] Adjust `extra_footer` to control License of course materials
-	- [ ] Set the substitution parameters under the `myst_substitutions`
-
-1. In the `_toc.yml` file:
-	- [ ] Arrange the table of contents to add/remove files
-	
-1. In the `about` and `class` folders:
-	- [ ] Edit the .md and .ipynb files with your course content
-
-## Attribution
-
-- Thanks to [Tomas Beuzen](https://github.com/TomasBeuzen) for his GH Actions workflow that deploys JupyterBooks using GH pages.
-- Thanks the entire [Jupyter Project](https://jupyter.org/about)
-- Finally, a big thanks to the [JupyterBook community](https://github.com/executablebooks/jupyter-book/graphs/contributors) for my incessant issues, questions, and PR requests on documentation changes.
+# Attribution
+This course templated has been generated based on [Dr. Firas Moosvi's JupyterBook Course Template](https://github.com/firasm/jupyterbook_course_template).
