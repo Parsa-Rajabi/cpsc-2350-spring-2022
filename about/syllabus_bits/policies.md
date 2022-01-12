@@ -1,6 +1,20 @@
+
+**As a student at Langara, you are responsible for familiarizing yourself and complying with the
+following policies**
+
 ## Langara COVID-19 Response
 
-For information about COVID-19, please visit (Langara COVID-19 FAQ)[https://langara.ca/news-and-events/covid-19/faqs/faqs-health.html].
+For information about COVID-19, please visit [Langara COVID-19 FAQ](https://langara.ca/news-and-events/covid-19/faqs/faqs-health.html).
+
+## Data Privacy
+
+This course may use an electronic (online) instructional resource that is located outside of Canada
+for mandatory graded class work. You may be required to enter personal information, such as your name
+and email address, to log in to this resource. This means that your personal information could be stored on
+servers located outside of Canada and may be accessed by U.S. authorities, subject to federal laws.
+Where possible, you may log in with an email pseudonym as long as you provide the pseudonym to me so
+I can identify you when reviewing your class work.
+
 ## Copyright Disclaimer
 
 <!-- Diagrams and figures included in lecture presentations adhere to [Copyright Guidelines for UBC Faculty, Staff and Students](https://copyright.ubc.ca/requirements/copyright-guidelines/) and [UBC Fair Dealing Requirements for Faculty and Staff](https://copyright.ubc.ca/requirements/fair-dealing/).
@@ -37,7 +51,7 @@ Marks on assignments and exams are based on merit and the quality of a student�
 
 [E2011 - Withdrawal from Courses and Deferred Standing](https://langara.ca/about-langara/policies/pdf/E2011.pdf)
 ## Departmental Policies
-From (https://langara.ca/programs-and-courses/courses/CPSC/), as of January 1st, 2021.
+From (https://langara.ca/programs-and-courses/courses/CPSC/), as of January 1st, 2022.
 ### Prerequisites
 Prerequisites for courses in Computer Science are valid for only three years. Students wanting to register in a course for which the prerequisite was taken more than three years ago will require departmental permission. Students may be required to write a diagnostic test or to “upgrade” the prerequisite. A course may only be used as a prerequisite if the Computer Science grade is at least "C".
 #### Repeating a course
