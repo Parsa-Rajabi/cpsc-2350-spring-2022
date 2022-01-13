@@ -2,5 +2,5 @@
 Course Schedule
 =======================
 
-```{include} syllabus_bits/schedule.md
+```{include} syllabus_bits/schedule_topics.md
 ```
