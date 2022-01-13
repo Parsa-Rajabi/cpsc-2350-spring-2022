@@ -1,4 +1,4 @@
-# Assignments and Weekly Check-in Quizzes
+# Assignments & Check-in Quizzes
 
 We are using GitHub Classroom to deliver the assignment and weekly quizzes for this course.
 You will first need to create a GitHub account, and then you can accept each Class Activity.
