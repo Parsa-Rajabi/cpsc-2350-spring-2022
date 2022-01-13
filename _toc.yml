@@ -8,6 +8,12 @@ parts:
   - file: about/accommodations
   - file: about/doing_well
   - file: about/faq
+- caption: Assignment and Check-in Quizzes
+  chapters:
+    - file: assignment_quizzes
+- caption: Project
+  chapters:
+    - file: project
 - caption: Course Content
   chapters:
   - file: class/week1/week1_summary
