@@ -5,7 +5,7 @@ Frequently Asked Questions
 
 > As [Langara's course schedule](http://swing.langara.bc.ca/prod/hzgkfcls.P_GetCrseBySubj?term=202210&subj=CPSC), this course is split into 2 lectures: 1 in-person and 1 online + 1 in-person lab section.
 >
-> Based on the latest information from BC's PHO and Langara's administratives, this class will be in-person starting Janurary 15, 2022.
+> Based on the latest information from BC's PHO and Langara's administration, this class will be in-person starting January 15, 2022.
 >
 > Please visit [Langara's Latest COVID-19 News Updates](https://langara.ca/news-and-events/covid-19/coronavirus-news-updates/index.html) to learn more about campus-wide announcements.
 
