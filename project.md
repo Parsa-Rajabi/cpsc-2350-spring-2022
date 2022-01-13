@@ -95,15 +95,15 @@ During this check-in, your group will have the opportunity to meet with the inst
 
 #### Report (70 marks)
 This document will include all the group's progress thus far:
-- [5 marks] Overview of the project 
-- [6 marks] 2 User stories per each API 
-- [6 marks] List of chosen APIs (at least 2) and why you chose them
-- [8 marks] Application features (in detail)
-- [10 marks] Work breakdown structure (WBS) including how the work was divided up and who has completed what element (including the actual report and presentation components)
-- [10 marks] Project schedule/timeline
-- [10 marks] Wireframes and prototype elements for the application interface
-- [10 marks] 2 Data flow diagrams (1 high level/overview, 1 with details)
-- [5 marks] Spelling, grammar, report structure (table of contents), cover page with links to github repository, report cleanness
+- `[5 marks]` Overview of the project 
+- `[6 marks]` 2 User stories per each API 
+- `[6 marks]` List of chosen APIs (at least 2) and why you chose them
+- `[8 marks]` Application features (in detail)
+- `[10 marks]` Work breakdown structure (WBS) including how the work was divided up and who has completed what element (including the actual report and presentation components)
+- `[10 marks]` Project schedule/timeline
+- `[10 marks]` Wireframes and prototype elements for the application interface
+- `[10 marks]` 2 Data flow diagrams (1 high level/overview, 1 with details)
+- `[5 marks]` Spelling, grammar, report structure (table of contents), cover page with links to github repository, report cleanness
 
 ```{tip}
 This report should be written as if the person reading it (the instructor or marker) has no prior knowledge or experience with your project. 
@@ -111,13 +111,13 @@ This report should be written as if the person reading it (the instructor or mar
 
 #### Presentation (30 marks +5 BONUS)
 This 10 minute presentation will be done in-class as an opportunity for other students in the class to become familiar with your project. This presentation should include:
-- [5 marks] Overview of the project 
-- [5 marks] Discuss which APIs you picked and why
-- [5 marks] Application features (high-level overview)
-- [5 marks] Wireframes and prototype elements for the application interface
-- [5 marks] 1 high level data flow diagram 
-- [5 marks] All members of the group speak, presentation quality (spelling/grammar/professionalism/smoothness), ability to answer question and staying within allocated time (8 minutes presentation + 2 minutes question period) 
-- [BONUS +5 marks] The best presentation voted by other students in the class will receive bonus marks added to their project grade at the end (Note: the max grade for the project is 100%) 
+- `[5 marks]` Overview of the project 
+- `[5 marks]` Discuss which APIs you picked and why
+- `[5 marks]` Application features (high-level overview)
+- `[5 marks]` Wireframes and prototype elements for the application interface
+- `[5 marks]` 1 high level data flow diagram 
+- `[5 marks]` All members of the group speak, presentation quality (spelling/grammar/professionalism/smoothness), ability to answer question and staying within allocated time (8 minutes presentation + 2 minutes question period) 
+- `[BONUS +5 marks]` The best presentation voted by other students in the class will receive bonus marks added to their project grade at the end (Note: the max grade for the project is 100%) 
 
 ```{tip}
 This presentation is directed towards your peers in the classroom who have no prior knowledge or experince with your project.
@@ -139,30 +139,30 @@ During this check-in, your group will have the opportunity to meet with the inst
 
 #### Report (70 marks)
 This document will serve as the final project report:
-- [2 marks] Overview of the project  
-- [3 marks] High-level list of implemented features 
-- [20 marks] Application features (in detail with screenshots)
-- [10 marks] Description of the tests associated with the code
-- [10 marks] Description of the project's CI/CD infrastructure
-- [10 marks] 1 high-level data flow diagram
-- [10 marks] Lessons learnt / project takeaway, project challenges, how the work was divided up and who has completed what element (including the actual report and presentation components)
-- [5 marks] Spelling, grammar, report structure (table of contents), cover page with links to github repository, report cleanness
+- `[2 marks]` Overview of the project  
+- `[3 marks]` High-level list of implemented features 
+- `[20 marks]` Application features (in detail with screenshots)
+- `[10 marks]` Description of the tests associated with the code
+- `[10 marks]` Description of the project's CI/CD infrastructure
+- `[10 marks]` 1 high-level data flow diagram
+- `[10 marks]` Lessons learnt / project takeaway, project challenges, how the work was divided up and who has completed what element (including the actual report and presentation components)
+- `[5 marks]` Spelling, grammar, report structure (table of contents), cover page with links to github repository, report cleanness
 
 #### Presentation (30 marks +5 BONUS)
 This 10 minute presentation will be done in-class as an opportunity for other students in the class to become familiar with your project. This presentation should include:
-- [5 marks] Overview of the project
-- [5 marks] Discuss which APIs you picked and why
-- [5 marks] Application features (high-level overview)
-- [5 marks] Overview of CI/CD infrastructure
-- [5 marks] Project takeaways and challenges
-- [5 marks] All members of the group speak, presentation quality (spelling/grammar/professionalism/smoothness), ability to answer question and staying within allocated time (8 minutes presentation + 2 minutes question period)
-- [BONUS +5 marks] The best presentation voted by other students in the class will receive  bonus marks added to their project grade at the end (the max grade for the project is 100%) 
+- `[5 marks]` Overview of the project
+- `[5 marks]` Discuss which APIs you picked and why
+- `[5 marks]` Application features (high-level overview)
+- `[5 marks]` Overview of CI/CD infrastructure
+- `[5 marks]` Project takeaways and challenges
+- `[5 marks]` All members of the group speak, presentation quality (spelling/grammar/professionalism/smoothness), ability to answer question and staying within allocated time (8 minutes presentation + 2 minutes question period)
+- `[BONUS +5 marks]` The best presentation voted by other students in the class will receive  bonus marks added to their project grade at the end (the max grade for the project is 100%) 
 
 #### Application Evaluation (100 marks +10/15 BONUS)
 The application developed as part of this project will be evaluated as the following
-- [30 marks] Implement at least 2 APIs into your application
-- [30 marks] Develop the application interface including basic styling (CSS)
-- [20 marks] Write 10 code test (2 marks each)
-- [20 marks] Set up CI/CD with a public URL
-- [BONUS +15 marks] The best project voted by other students in the class will receive bonus marks added to their project grade at the end (Note: the max grade for the project is 100%)
-- [BONUS +10 marks] Your group will receive 10 bonus marks if you choose to implement the project using a modern web application framework such as React, Angular etc. 
+- `[30 marks]` Implement at least 2 APIs into your application
+- `[30 marks]` Develop the application interface including basic styling (CSS)
+- `[20 marks]` Write 10 code test (2 marks each)
+- `[20 marks]` Set up CI/CD with a public URL
+- `[BONUS +15 marks]` The best project voted by other students in the class will receive bonus marks added to their project grade at the end (Note: the max grade for the project is 100%)
+- `[BONUS +10 marks]` Your group will receive 10 bonus marks if you choose to implement the project using a modern web application framework such as React, Angular etc. 
