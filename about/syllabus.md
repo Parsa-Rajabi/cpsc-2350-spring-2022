@@ -14,9 +14,13 @@ Elements of this document are **fixed** and unchanging.
 
 **{{ TERM }}**
 
-**{{ MEETING_TIMES }} in {{ ROOM }}**
+**{{ MEETING_TIMES }}**
 
-**Mode of Delivery/Location:** As per [Langara's announcment on December 30, 2021](https://langara.ca/news-and-events/covid-19/coronavirus-news-updates/2021/211230-covid-student-update.html), this course will be delivered 100% remotely until Monday, January 10.
+**Mode of Delivery/Location:**  
+As [Langara's course schedule](http://swing.langara.bc.ca/prod/hzgkfcls.P_GetCrseBySubj?term=202210&subj=CPSC), this course is split into 2 lectures: 
+- 2 hour in-person lecture in A274 
+- 2 hour online (asynchronous)
+- 2 hour in-person lab section in A275
 
 ---
 ## Course Instructor
