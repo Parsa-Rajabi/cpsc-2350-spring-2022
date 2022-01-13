@@ -24,16 +24,16 @@ Missed project deadlines (check-ins, reports, presentations), quizzes and exams 
 
 ## Weekly Check-in Quizzes
 
-| Weekly Quizzes | Due Date |       Link to Accept      |
+| Weekly Quizzes | Due Date |           Link            |
 |:--------------:|:--------:|:-------------------------:|
 |       Q1       |  Jan. 22 | [Accept Quiz on Github]() |
-|       Q2       |  Jan. 29 | [Accept Quiz on Github]() |
-|       Q3       |  Feb. 5  | [Accept Quiz on Github]() |
-|       Q4       |  Feb. 12 | [Accept Quiz on Github]() |
-|       Q5       |  Feb. 19 | [Accept Quiz on Github]() |
+|       Q2       |  Jan. 29 |                           |
+|       Q3       |  Feb. 5  |                           |
+|       Q4       |  Feb. 12 |                           |
+|       Q5       |  Feb. 19 |                           |
 |     No Quiz    |  Feb. 26 |       Reading Break       |
-|       Q6       |  Mar. 5  | [Accept Quiz on Github]() |
-|       Q7       |  Mar. 12 | [Accept Quiz on Github]() |
-|       Q8       |  Mar. 19 | [Accept Quiz on Github]() |
-|       Q9       |  Mar. 26 | [Accept Quiz on Github]() |
-|       Q10      |  Apr. 2  | [Accept Quiz on Github]() |
+|       Q6       |  Mar. 5  |                           |
+|       Q7       |  Mar. 12 |                           |
+|       Q8       |  Mar. 19 |                           |
+|       Q9       |  Mar. 26 |                           |
+|       Q10      |  Apr. 2  |                           |
