@@ -10,7 +10,7 @@ parts:
   - file: about/faq
 - caption: Assignment and Check-in Quizzes
   chapters:
-    - file: assignment_quizzes
+    - file: assignments_quizzes
 - caption: Project
   chapters:
     - file: project
