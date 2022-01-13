@@ -14,7 +14,7 @@ Elements of this document are **fixed** and unchanging.
 
 **{{ TERM }}**
 
-**{{ MEETING_TIMES }}**
+**{{ MEETING_TIMES }} in {{ ROOM }}**
 
 **Mode of Delivery/Location:** As per [Langara's announcment on December 30, 2021](https://langara.ca/news-and-events/covid-19/coronavirus-news-updates/2021/211230-covid-student-update.html), this course will be delivered 100% remotely until Monday, January 10.
 
@@ -62,14 +62,14 @@ There is no requirement to purchase textbooks or any other materials for this co
 ```{include} syllabus_bits/passing_requirement.md
 ```
 
-## Late Policy and Missed Assignments and Exams
+## Late Policy and Missed Assignments/Exams
 
 Assignments can be submitted up to 48 hours after the due date with 10% late penalty for every 24 hours. No submissions will be accepted after 48 hours. 
 Missed project deadlines (check-ins, reports, presentations), quizzes and exams will be given a score of 0 unless prior arrangements are made with the course instructor.
 
 ## Tentative Course Schedule
 
-```{include} syllabus_bits/schedule.md
+```{include} syllabus_bits/schedule_topics.md
 ```
 
 ```{include} syllabus_bits/policies.md
