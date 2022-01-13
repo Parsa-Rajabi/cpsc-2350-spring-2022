@@ -9,17 +9,17 @@ Frequently Asked Questions
 >
 > Please visit [Langara's Latest COVID-19 News Updates](https://langara.ca/news-and-events/covid-19/coronavirus-news-updates/index.html) to learn more about campus-wide announcements.
 
+- **I'm unable to attend class due to COVID-19 exposure / sickness etc., what do I do?**
+
+> Please contact your instructor as soon as possible to make alternative arragements.
+
 - **Are lectures mandatory to attend?**
 
 > Although lectures are not mandatory to attend, it is highly recommended that you attend to keep up with the course content.
 
-- **Are lectures going to be recorded?**
+[//]: # (- **Are lectures going to be recorded?**)
 
-> Yes, all lectures will be recorded and made available for students to view at a later time.
-
-- **I'm unable to attend class due to COVID-19 exposure / sickness etc., what do I do?**
-
-> Please contact your instructor as soon as possible to make alternative arragements.
+[//]: # (> Yes, all lectures will be recorded and made available for students to view at a later time.)
 
 - **Are labs mandatory to attend?**
 
