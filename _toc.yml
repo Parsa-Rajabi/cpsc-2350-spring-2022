@@ -13,18 +13,18 @@ parts:
     - file: assignments_quizzes
     - file: work_in_progress
 #    - file: project
-- caption: Course Content
-  chapters:
-  - file: class/week1/week1_summary
-    title: Week 1 
-    sections:
-      - file: class/week1/readings
-      - file: class/week1/videos
-      - file: class/week1/homework
-      - file: class/week1/lecture
-      - file: class/week1/test
-      - file: class/week1/lab
-      - file: class/week1/learninglogs
+#- caption: Course Content
+#  chapters:
+#  - file: class/week1/week1_summary
+#    title: Week 1
+#    sections:
+#      - file: class/week1/readings
+#      - file: class/week1/videos
+#      - file: class/week1/homework
+#      - file: class/week1/lecture
+#      - file: class/week1/test
+#      - file: class/week1/lab
+#      - file: class/week1/learninglogs
 # - caption: Final Exam
 #   chapters:
 #   - file: class/final
