@@ -19,7 +19,7 @@ html:
   use_edit_page_button: false
   navbar_number_sections : false
   baseurl : "https://parsa-rajabi.github.io/cpsc-2350/"  # The base URL where your book will be hosted. Used for creating image previews and social links. e.g.: https://mypage.com/mybook/
-  # google_analytics_id: UA-11111111 # add your Google Analytics Tracking Code
+   google_analytics_id: G-LFY5151T35 # add your Google Analytics Tracking Code
   comments:
     hypothesis: false
     utterances:
