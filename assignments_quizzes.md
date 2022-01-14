@@ -10,7 +10,7 @@ Once the deadline and the late submission period has passed, you will no longer 
 
 ```{tip}
 Late policy: Assignments can be submitted up to 48 hours after the due date with 10% late penalty for every 24 hours. No submissions will be accepted after 48 hours. 
-Missed project deadlines (check-ins, reports, presentations), quizzes and exams will be given a score of 0 unless prior arrangements are made with the course instructor.
+Missed project deadlines (reports, presentations, etc.), quizzes and exams will be given a score of 0 unless prior arrangements are made with the course instructor.
 ```
 
 ## Assignments 
