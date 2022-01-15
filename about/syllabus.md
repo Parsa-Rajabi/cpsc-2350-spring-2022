@@ -65,6 +65,9 @@ There is no requirement to purchase textbooks or any other materials for this co
 ```{include} syllabus_bits/grading_practices_detailed.md
 ```
 
+![Grade Letters](../images/grade_letters.png)
+
+
 ## Passing Criteria
 
 ```{include} syllabus_bits/passing_requirement.md
