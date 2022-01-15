@@ -18,9 +18,11 @@ Elements of this document are **fixed** and unchanging.
 
 **Mode of Delivery/Location:**  
 As [Langara's course schedule](http://swing.langara.bc.ca/prod/hzgkfcls.P_GetCrseBySubj?term=202210&subj=CPSC), this course is split into 2 lectures: 
-- 2 hour in-person lecture in A274 
+- 2 hour hybrid lecture in A274/Zoom
 - 2 hour online (asynchronous)
-- 2 hour in-person lab section in A275
+- 2 hour hybrid lab section in A275/Zoom
+
+(Visit Brightspace for Zoom link)
 
 ---
 ## Course Instructor
