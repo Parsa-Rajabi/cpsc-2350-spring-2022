@@ -27,6 +27,10 @@ As [Langara's course schedule](http://swing.langara.bc.ca/prod/hzgkfcls.P_GetCrs
 
 **Name:** {{ INSTRUCTOR }}
 
+**Email:** prajabi `[at]` langara.ca (replace `[at]` with `@`)
+
+**Slack:** @parsa
+
 <!-- **Office:** {{ OFFICE }} -->
 
 <!-- **Phone:** {{ PHONE }} -->
