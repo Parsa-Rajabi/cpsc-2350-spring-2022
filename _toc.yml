@@ -13,12 +13,9 @@ parts:
     - file: assignments_quizzes
     - file: work_in_progress
 #    - file: project
-- caption: Course content
-    chapters:
-      - file: lecture_notes
-#- caption: Course Content
-#  chapters:
-#  - file: class/week1/week1_summary
+- caption: Course Content
+  chapters:
+  - file: lecture_notes
 #    title: Week 1
 #    sections:
 #      - file: class/week1/readings
