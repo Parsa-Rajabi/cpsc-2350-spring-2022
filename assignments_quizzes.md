@@ -37,3 +37,34 @@ Missed project deadlines (reports, presentations, etc.), quizzes and exams will 
 |       Q8       |  Mar. 19 |                           |
 |       Q9       |  Mar. 26 |                           |
 |       Q10      |  Apr. 2  |                           |
+
+## Github Classroom
+
+Here are some instructions on how to start working on assignments/quizzes that are available on Github classrrom.
+
+- Step 1: Accept assignment/quiz with link above, and open a Terminal
+- Step 2: Clone the repo on your local computer [View Tutorial / Common errors](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository)
+  - `git clone https://...`
+- Step 3: Navigate to that directory 
+  - `cd /path/to/where/you/cloned/repo/`
+- Step 4: Try to navigate the files and folders (if any) in your repo using the Terminal
+- Step 5: Making changes based on instructions 
+- Step 6: Commit your changes to the repository 
+  - `git add -A or git add .`
+  - `git commit -m "Insert your commit message here i.e. Updated file X"`
+  - You can commit changes to your repository AS MANY TIMES AS YOU LIKE BEFORE THE DEADLINE (any commits after the deadline will be ignored - contact the instructor if you're submitting an item late)
+- Step 7: Pushing the changes above
+  - `git push` 
+- Step 8: Copy your repository link and submit the link to Brightspace assignment. After the deadline, we will begin marking submitted assignments. 
+
+
+
+```{tip}
+Working with Git:
+1. Add file: git add filename.format (git add example.txt) 
+    1b. You can commit all files in your directory by using either:
+     - git add .
+     - git add -A
+2. Commit changes with a message: git commit -m "type commit message here"
+3. Push changes: git push
+```
