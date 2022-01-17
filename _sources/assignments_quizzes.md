@@ -61,10 +61,10 @@ Here are some instructions on how to start working on assignments/quizzes that a
 
 ```{tip}
 Working with Git:
-1. Add file: git add filename.format (git add example.txt) 
+1. Add file: `git add filename.format` (git add example.txt) 
     1b. You can commit all files in your directory by using either:
-     - git add .
-     - git add -A
-2. Commit changes with a message: git commit -m "type commit message here"
-3. Push changes: git push
+     - `git add .`
+     - `git add -A`
+2. Commit changes with a message: `git commit -m "type commit message here"`
+3. Push changes: `git push`
 ```
