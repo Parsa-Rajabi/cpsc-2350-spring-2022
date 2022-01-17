@@ -17,26 +17,27 @@ Missed project deadlines (reports, presentations, etc.), quizzes and exams will 
 
 | Assignment | Due Date |      Link to Accept     |
 |:----------:|:--------:|:-----------------------:|
-|     A1     |  Jan. 22 | [Accept A1 on Github]() |
+|     A1     |  Jan. 22 | [Accept A1 on Github](https://classroom.github.com/a/Esve9AkZ) |
 |     A2     |  Feb. 5  | [Accept A2 on Github]() |
 |     A3     |  Mar. 12 | [Accept A3 on Github]() |
 |     A4     |  Mar. 26 | [Accept A4 on Github]() |
 
 ## Weekly Check-in Quizzes
 
-| Weekly Quizzes | Due Date |           Link            |
-|:--------------:|:--------:|:-------------------------:|
-|       Q1       |  Jan. 22 | [Accept Quiz on Github]() |
-|       Q2       |  Jan. 29 |                           |
-|       Q3       |  Feb. 5  |                           |
-|       Q4       |  Feb. 12 |                           |
-|       Q5       |  Feb. 19 |                           |
-|     No Quiz    |  Feb. 26 |       Reading Break       |
-|       Q6       |  Mar. 5  |                           |
-|       Q7       |  Mar. 12 |                           |
-|       Q8       |  Mar. 19 |                           |
-|       Q9       |  Mar. 26 |                           |
-|       Q10      |  Apr. 2  |                           |
+| Weekly Quizzes | Due Date |                               Link                               |
+|:--------------:|:--------:|:----------------------------------------------------------------:|
+| Q0 (Syllabus)  |  Jan. 22 |                     [View on Brightspace](https://d2l.langara.bc.ca/d2l/le/content/222094/viewContent/3565023/View)                      |
+|       Q1       |  Jan. 22 | [Accept Quiz on Github](https://classroom.github.com/a/WKss8HdK) |
+|       Q2       |  Jan. 29 |                                                                  |
+|       Q3       |  Feb. 5  |                                                                  |
+|       Q4       |  Feb. 12 |                                                                  |
+|       Q5       |  Feb. 19 |                                                                  |
+|    No Quiz     |  Feb. 26 |                          Reading Break                           |
+|       Q6       |  Mar. 5  |                                                                  |
+|       Q7       |  Mar. 12 |                                                                  |
+|       Q8       |  Mar. 19 |                                                                  |
+|       Q9       |  Mar. 26 |                                                                  |
+|      Q10       |  Apr. 2  |                                                                  |
 
 ## Github Classroom
 
