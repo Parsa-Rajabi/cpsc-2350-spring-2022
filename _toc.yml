@@ -11,8 +11,7 @@ parts:
 - caption: Course elements
   chapters:
     - file: assignments_quizzes
-    - file: work_in_progress
-#    - file: project
+    - file: project
 - caption: Course Content
   chapters:
   - file: lecture_notes

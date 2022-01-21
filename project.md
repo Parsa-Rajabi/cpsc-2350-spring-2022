@@ -3,8 +3,30 @@
 This project is one of the main components of this course (40% of your grade) which will be done in groups of 4. 
 
 ## About
+- Plan, develop and deliver an application that has 2 APIs integrated with a minimum of 3 features per each API (6 features total). 
+- Choose a Software Development Life Cycle (SDLC) model and apply the appropriate principles to your project.
+- Set up and maintain a github repository while using github elements such as branching, pull requests, github project and issues
+### Planning 
+- Create user stories 
+- Develop wireframes and prototype elements for the application interface
+- Develop a work breakdown structure (WBS) of all the tasks associated with the project alongside a project schedule/timeline
+- Use Data Flow Diagrams (DFDs) to outline how data flows within the application
+### Implementation
+- Integrate chosen APIs into application with features
+- Develop application interface based on wireframes/prototypes
+- Write unit and integration code tests
+- Set up and maintain a CI/CD infrastructure (test, build and deploy + accessible via a public URL)
 
-As part of a group, you and your group will plan, develop and deliver an application that has at least 2 APIs integrated in it. This application does not require any back-end elements such as a database. The application will also include code tests, a CI/CD infrastructure and accessible via a public URL.  
+### Out of Scope
+- No back-end elements (ie. database) are required 
+
+## Resources 
+- [What is a tech stack?](https://heap.io/topics/what-is-a-tech-stack)
+- [What is an API?](https://www.ibm.com/cloud/learn/api)
+- [A collective list of free APIs for use in software and web development](https://github.com/public-apis/public-apis)
+- [Modern Web Application Frameworks](https://hackr.io/blog/web-development-frameworks) (no back-end is required for this project)
+- [What is CI/CD?](https://www.infoworld.com/article/3271126/what-is-cicd-continuous-integration-and-continuous-delivery-explained.html)
+
 
 ## Structure
 This project is broken down into 2 milestones:
@@ -86,7 +108,9 @@ During the first 2 months of this course, your group will primarily work on plan
 ### Check-in #1 - February 5
 
 During this check-in, your group will have the opportunity to meet with the instructor and receive feedback on all the elements completed thus far. Although there are no marks associated with this check-in, your group is expected to have the following elements completed and ready to discuss with the instructor:
-- A list of 2-3 selected APIs that you wish to use as part of your project 
+- SDLC model chosen 
+- Technology stack that this project will be based on 
+- A list of 2 selected APIs that you wish to use as part of your project 
 - Github repository with a README file  
 - Completed WBS with detailed tasks 
 - An idea of the application interface will look like and how data will flow between each element
@@ -95,15 +119,17 @@ During this check-in, your group will have the opportunity to meet with the inst
 
 #### Report (70 marks)
 This document will include all the group's progress thus far:
-- `[5 marks]` Overview of the project 
-- `[6 marks]` 2 User stories per each API 
-- `[6 marks]` List of chosen APIs (at least 2) and why you chose them
-- `[8 marks]` Application features (in detail)
+- `[5 marks]` Overview of the project
+- `[6 marks]` Outline which SDLC model was chosen and why  
+- `[4 marks]` 2 User stories per each API (4 total, 1 mark each)
+- `[4 marks]` Outline your technology stack and why you chose it
+- `[4 marks]` List of chosen APIs and why you chose them
+- `[8 marks]` Planned features per each API (in detail - 3 features per each API, 6 features minimum)
 - `[10 marks]` Work breakdown structure (WBS) including how the work was divided up and who has completed what element (including the actual report and presentation components)
-- `[10 marks]` Project schedule/timeline
+- `[8 marks]` Project schedule/timeline
 - `[10 marks]` Wireframes and prototype elements for the application interface
-- `[10 marks]` 2 Data flow diagrams (1 high level/overview, 1 with details)
-- `[5 marks]` Spelling, grammar, report structure (table of contents), cover page with links to github repository, report cleanness
+- `[6 marks]` 2 Data flow diagrams (1 high level/overview, 1 with details) (3 marks each)
+- `[5 marks]` Spelling, grammar, report structure (table of contents), cover page with links to github repository, report cleanliness
 
 ```{tip}
 This report should be written as if the person reading it (the instructor or marker) has no prior knowledge or experience with your project. 
@@ -112,7 +138,7 @@ This report should be written as if the person reading it (the instructor or mar
 #### Presentation (30 marks +5 BONUS)
 This 10 minute presentation will be done in-class as an opportunity for other students in the class to become familiar with your project. This presentation should include:
 - `[5 marks]` Overview of the project 
-- `[5 marks]` Discuss which APIs you picked and why
+- `[5 marks]` Discuss which tech stack / APIs and SDLC model you picked and why
 - `[5 marks]` Application features (high-level overview)
 - `[5 marks]` Wireframes and prototype elements for the application interface
 - `[5 marks]` 1 high level data flow diagram 
@@ -130,39 +156,44 @@ During the last 2 months of this course, your group will shift to executing the 
 ### Check-in #2 - March 19
 
 During this check-in, your group will have the opportunity to meet with the instructor and receive feedback on all the elements completed thus far. Although there are no marks associated with this check-in, your group is expected to have the following elements completed and ready to discuss with the instructor:
-- 1 API fully implemented
-- 50% of the application interface  
-- 2-3 passing code tests
-- An idea as to which CI/CD infrastructure you plan on using  
+- CI/CD infrastructure fully implemented
+- 1 API fully implemented with 2-3 features 
+- Progress on application interface (UI)
+- at least 1 unit + 1 integration code tests 
+  
 
 ### Report and Presentation #2 - April 2 
 
 #### Report (70 marks)
 This document will serve as the final project report:
 - `[2 marks]` Overview of the project  
+- `[7 marks]` Overview of which SDLC model was used in the project and what worked/didn't work 
 - `[3 marks]` High-level list of implemented features 
-- `[20 marks]` Application features (in detail with screenshots)
-- `[10 marks]` Description of the tests associated with the code
-- `[10 marks]` Description of the project's CI/CD infrastructure
-- `[10 marks]` 1 high-level data flow diagram
+- `[18 marks]` 3 application features per each API - 6 features in total (in detail with screenshots) (3 marks per feature)
+- `[10 marks]` Description of the tests associated with the code (unit and integration tests)
+- `[10 marks]` Description of the project's CI/CD infrastructure (test, build and deploy)
+- `[5 marks]` 1 high-level data flow diagram
 - `[10 marks]` Lessons learnt / project takeaway, project challenges, how the work was divided up and who has completed what element (including the actual report and presentation components)
 - `[5 marks]` Spelling, grammar, report structure (table of contents), cover page with links to github repository, report cleanness
 
 #### Presentation (30 marks +5 BONUS)
 This 10 minute presentation will be done in-class as an opportunity for other students in the class to become familiar with your project. This presentation should include:
-- `[5 marks]` Overview of the project
-- `[5 marks]` Discuss which APIs you picked and why
+- `[2 marks]` Overview of the project
+- `[3 marks]` Discuss which APIs you picked and why
 - `[5 marks]` Application features (high-level overview)
 - `[5 marks]` Overview of CI/CD infrastructure
 - `[5 marks]` Project takeaways and challenges
-- `[5 marks]` All members of the group speak, presentation quality (spelling/grammar/professionalism/smoothness), ability to answer question and staying within allocated time (8 minutes presentation + 2 minutes question period)
+- `[5 marks]` Project demo video (1-2 minutes)
+- `[5 marks]` All members of the group speak, presentation quality (spelling/grammar/professionalism/smoothness), ability to answer question and staying within allocated time (8 minutes presentation including demo video + 2 minutes question period)
 - `[BONUS +5 marks]` The best presentation voted by other students in the class will receive  bonus marks added to their project grade at the end (the max grade for the project is 100%) 
 
-#### Application Evaluation (100 marks +10/15 BONUS)
+#### Application Evaluation (100 marks +10 BONUS)
 The application developed as part of this project will be evaluated as the following
-- `[30 marks]` Implement at least 2 APIs into your application
-- `[30 marks]` Develop the application interface including basic styling (CSS)
-- `[20 marks]` Write 10 code test (2 marks each)
-- `[20 marks]` Set up CI/CD with a public URL
-- `[BONUS +15 marks]` The best project voted by other students in the class will receive bonus marks added to their project grade at the end (Note: the max grade for the project is 100%)
-- `[BONUS +10 marks]` Your group will receive 10 bonus marks if you choose to implement the project using a modern web application framework such as React, Angular etc. 
+- `[48 marks]` Implement 6 features based on 2 APIs (3 features per each API) (8 marks each)
+- `[12 marks]` Develop application interface including basic styling and framework 
+- `[8 marks]` Write 8 unit tests (1 mark each)
+- `[12 marks]` Write 1 integration test per each feature - 6 total (2 marks each)
+- `[20 marks]` Set up project with CI/CD infrastructure (including hosting - accessible via public URL).  
+  - Test, build and deploy stages
+- `[BONUS +5 marks]` The best project voted by other students in the class will receive bonus marks added to their project grade at the end (Note: the max grade for the project is 100%)
+- `[BONUS +5 marks]` Your group will receive bonus marks if you choose to implement the project using a modern web application framework such as React, Angular etc. (Note: the max grade for the project is 100%)
