@@ -34,8 +34,7 @@ Note: When emailing, please put “CPSC 2350” at the start of your subject lin
 
 **Slack:** @parsa
 
-**Office Hours:** 12:30 - 13:30pm on Saturdays -  
-[Book a session]([https://calendly.com/parsa-rajabi/cpsc-2350-office-hour) beforehand 
+**Office Hours:** 12:30 - 13:30pm on Saturdays - [Book a session](https://calendly.com/parsa-rajabi/cpsc-2350-office-hour) beforehand 
 
 <!-- **Phone:** {{ PHONE }} -->
 
