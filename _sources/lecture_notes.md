@@ -1,20 +1,24 @@
 # Lecture Notes
 
+```{warning}
+All lecture slides are password protected. Visit D2L Brightspace to get the password.
+```
 
-| Wk# |   Date  |           Topic          |                                                  Lecture Notes                                                 |
-|:---:|:-------:|:------------------------:|:--------------------------------------------------------------------------------------------------------------:|
-|  1  |  Jan. 8 |         Cancelled        |                                                        -                                                       |
-|  2  | Jan. 15 | Introduction, Git/Github | [Slides](https://docs.google.com/presentation/d/1fnHecXfFPJEY9OI8X6nSQ6aSZglHnNoyhSpELEgKAgQ/edit?usp=sharing) |
-|  3  | Jan. 22 |  SDLC, Agile/Water/Scrum |                                                                                                                |
-|  4  | Jan. 29 |    Project Management    |                                                                                                                |
-|  5  |  Feb. 5 | Application Architecture |                                                                                                                |
-|  6  | Feb. 12 |    Application Design    |                                                                                                                |
-|  7  | Feb. 19 |  Project Presentation #1 |                                                                                                                |
-|  8  | Feb. 26 |  Reading Break, No Class |                                                        -                                                       |
-|  9  |  Mar. 5 |           CI/CD          |                                                                                                                |
-|  10 | Mar. 12 |  Application Robustness  |                                                                                                                |
-|  11 | Mar. 19 |       Guest Speaker      |                                                                                                                |
-|  12 | Mar. 26 |                          |                                                                                                                |
-|  13 |  Apr. 2 |  Project Presentation #2 |                                                                                                                |
+
+| Wk# |  Date   |          Topic           |                                                                                                                                                        Lecture Notes                                                                                                                                                        |
+|:---:|:-------:|:------------------------:|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+|  1  | Jan. 8  |        Cancelled         |                                                                                                                                                              -                                                                                                                                                              |
+|  2  | Jan. 15 | Introduction, Git/Github | [Slides](https://jstrieb.github.io/link-lock/#eyJ2IjoiMC4wLjEiLCJlIjoiNW1RSVRSeTlCbXI2eEhHK3l6V3daTS9UQWlwVFl1SElJRTlCV2RtbStmQStaNmgrMWZhQzZXeU1xdmJkeVRKQmR2aXI5WjM0TzBDY1Z3NWN4UG53YVpDVkh3ZStoSFVmVnBQcVlESDIreEtOalJxVlRlYmlLRzRrNEgzWEN6eUphWUY1TTgvWk5SeWZPZzRvejFlMS9OYjZDa2c9IiwiaSI6IkxkYU5rQVltZmNDUDdqYXUifQ==) |
+|  3  | Jan. 22 | SDLC  | [Slides](https://jstrieb.github.io/link-lock/#eyJ2IjoiMC4wLjEiLCJlIjoiKzQ0YnpoRjU4THpDZ3gzZWsyVTdtbks1SEwydFM2cVJzcHJPcTVZTElhQ2I1UDg2ZlZmT2tWWnB5SVkrS2tndCtQRzIwWmtlWUxGVUljOEpTYlM2UnhJdzVsdmp0b2JkU0kzS2ZyMWhtYnV0ejBxOVpMYlJ4eFVSbThQaCtBMVE5Q3dNTmZJRnNmQUtSOVBKLzN2bFczRlovNVU9IiwiaSI6ImpFWkEyRjNPSDZXRExuWE0ifQ==) |
+|  4  | Jan. 29 |    Project Management    |                                                                                                                                                                                                                                                                                                                             |
+|  5  | Feb. 5  | Application Architecture |                                                                                                                                                                                                                                                                                                                             |
+|  6  | Feb. 12 |    Application Design    |                                                                                                                                                                                                                                                                                                                             |
+|  7  | Feb. 19 | Project Presentation #1  |                                                                                                                                                                                                                                                                                                                             |
+|  8  | Feb. 26 | Reading Break, No Class  |                                                                                                                                                              -                                                                                                                                                              |
+|  9  | Mar. 5  |          CI/CD           |                                                                                                                                                                                                                                                                                                                             |
+| 10  | Mar. 12 |  Application Robustness  |                                                                                                                                                                                                                                                                                                                             |
+| 11  | Mar. 19 |      Guest Speaker       |                                                                                                                                                                                                                                                                                                                             |
+| 12  | Mar. 26 |                          |                                                                                                                                                                                                                                                                                                                             |
+| 13  | Apr. 2  | Project Presentation #2  |                                                                                                                                                                                                                                                                                                                             |
 
 
