@@ -26,9 +26,9 @@ Missed project deadlines (reports, presentations, etc.), quizzes and exams will 
 
 | Weekly Quizzes | Due Date |                               Link                               |
 |:--------------:|:--------:|:----------------------------------------------------------------:|
-| Q0 (Syllabus)  |  Jan. 22 |                     [View on Brightspace](https://d2l.langara.bc.ca/d2l/le/content/222094/viewContent/3565023/View)                      |
+| Q0 (Syllabus)  |  Jan. 22 | [View on Brightspace](https://d2l.langara.bc.ca/d2l/le/content/222094/viewContent/3565023/View)|
 |       Q1       |  Jan. 22 | [Accept Quiz on Github](https://classroom.github.com/a/WKss8HdK) |
-|       Q2       |  Jan. 29 |                                                                  |
+|       Q2       |  Jan. 29 | [Accept Quiz on Github](https://classroom.github.com/a/0ovsxtyw) |
 |       Q3       |  Feb. 5  |                                                                  |
 |       Q4       |  Feb. 12 |                                                                  |
 |       Q5       |  Feb. 19 |                                                                  |
