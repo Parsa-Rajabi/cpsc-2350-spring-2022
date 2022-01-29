@@ -15,12 +15,12 @@ Missed project deadlines (reports, presentations, etc.), quizzes and exams will 
 
 ## Assignments 
 
-| Assignment | Due Date |      Link to Accept     |
-|:----------:|:--------:|:-----------------------:|
-|     A1     |  Jan. 22 | [Accept A1 on Github](https://classroom.github.com/a/Esve9AkZ) |
-|     A2     |  Feb. 5  | [Accept A2 on Github]() |
-|     A3     |  Mar. 12 | [Accept A3 on Github]() |
-|     A4     |  Mar. 26 | [Accept A4 on Github]() |
+| Assignment |    Due Date     |      Link to Accept     |
+|:----------:|:---------------:|:-----------------------:|
+|     A1     |     Jan. 22     | [Accept A1 on Github](https://classroom.github.com/a/Esve9AkZ) |
+|     A2     |    Feb. 12      | [Accept A2 on Github]() |
+|     A3     |     Mar. 12     | [Accept A3 on Github]() |
+|     A4     |     Mar. 26     | [Accept A4 on Github]() |
 
 ## Weekly Check-in Quizzes
 
