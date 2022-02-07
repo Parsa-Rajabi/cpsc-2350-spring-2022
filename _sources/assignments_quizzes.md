@@ -31,7 +31,7 @@ Missed project deadlines (reports, presentations, etc.), quizzes and exams will 
 |       Q2       | Jan. 29  |                [Accept Quiz on Github](https://classroom.github.com/a/0ovsxtyw)                 |
 |       Q3       |  Feb. 5  |                [Accept Quiz on Github](https://classroom.github.com/a/PDIkDMhm)                 |
 |       Q4       | Feb. 12  |                [Accept Quiz on Github](https://classroom.github.com/a/VB0PzIy9)                 |
-|       Q5       | Feb. 19  |                                                                                                 |
+|       Q5       | Feb. 19  |                [Accept Quiz on Github](https://classroom.github.com/a/Q_Z7YH6J)                 |
 |    No Quiz     | Feb. 26  |                                          Reading Break                                          |
 |       Q6       |  Mar. 5  |                                                                                                 |
 |       Q7       | Mar. 12  |                                                                                                 |
