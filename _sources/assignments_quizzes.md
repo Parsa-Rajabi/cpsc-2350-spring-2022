@@ -20,7 +20,7 @@ Missed project deadlines (reports, presentations, etc.), quizzes and exams will 
 |     A1     |     Jan. 22     | [Accept A1 on Github](https://classroom.github.com/a/Esve9AkZ) |
 |     A2     |    Feb. 12      | [Accept A2 on Github](https://classroom.github.com/a/exuHPdJw) |
 |     A3     |     Mar. 12     | [Accept A3 on Github](https://classroom.github.com/a/i5vUHf1x) |
-|     A4     |     Mar. 26     | |
+|     A4     |     Mar. 26     | [Accept A4 on Github](https://classroom.github.com/a/MocjZsmu) |
 
 ## Weekly Check-in Quizzes
 
@@ -35,7 +35,7 @@ Missed project deadlines (reports, presentations, etc.), quizzes and exams will 
 |    No Quiz     | Feb. 26  |                                          Reading Break                                          |
 |       Q6       | Mar. 5   |                [Accept Quiz on Github](https://classroom.github.com/a/lIlYxAHh)                 |
 |       Q7       | Mar. 12  |                [Accept Quiz on Github](https://classroom.github.com/a/_QLSbkky)                 |
-|       Q8       | Mar. 19  |                                                                                                 |
+|       Q8       | Mar. 19  |                [Accept Quiz on Github](https://classroom.github.com/a/EQwHeorm)                 |
 |       Q9       | Mar. 26  |                                                                                                 |
 |      Q10       |  Apr. 2  |                                                                                                 |
 
