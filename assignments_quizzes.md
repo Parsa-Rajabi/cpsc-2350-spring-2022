@@ -36,8 +36,8 @@ Missed project deadlines (reports, presentations, etc.), quizzes and exams will 
 |       Q6       | Mar. 5   |                [Accept Quiz on Github](https://classroom.github.com/a/lIlYxAHh)                 |
 |       Q7       | Mar. 12  |                [Accept Quiz on Github](https://classroom.github.com/a/_QLSbkky)                 |
 |       Q8       | Mar. 19  |                [Accept Quiz on Github](https://classroom.github.com/a/EQwHeorm)                 |
-|       Q9       | Mar. 26  |                                                                                                 |
-|      Q10       |  Apr. 2  |                                                                                                 |
+|       Q9       | Mar. 26  |                [Accept Quiz on Github](https://classroom.github.com/a/EttcOh3M)                 |
+|      Q10       |  Apr. 2  |                [Accept Quiz on Github](https://classroom.github.com/a/h0VoaXUM)                 |
 
 ## Github Classroom
 
